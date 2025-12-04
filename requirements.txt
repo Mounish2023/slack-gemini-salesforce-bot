@@ -1,0 +1,15 @@
+slack-sdk==3.37.0
+slack-bolt==1.26.0
+
+# Salesforce REST API
+requests==2.31.0
+
+# LLM: Google Gemini
+google-genai
+
+# MCP Server Support
+mcp
+
+pytest
+ruff==0.14.3
+python-dotenv==1.2.1

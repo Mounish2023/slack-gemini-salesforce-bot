@@ -1,0 +1,21 @@
+# Slack App Configuration
+SLACK_BOT_TOKEN=xoxb-your-bot-token
+SLACK_APP_TOKEN=xapp-your-app-token
+SLACK_API_URL=https://slack.com/api
+
+# Salesforce Configuration
+# Get these from your Salesforce Connected App
+SALESFORCE_CLIENT_ID=your_salesforce_consumer_key
+SALESFORCE_CLIENT_SECRET=your_salesforce_consumer_secret
+SALESFORCE_REDIRECT_URI=https://your-app.com/oauth/callback
+SALESFORCE_INSTANCE_URL=https://your-instance.salesforce.com
+SALESFORCE_REFRESH_TOKEN=your_refresh_token
+
+# Optional: Salesforce API version (default: v59.0)
+SALESFORCE_API_VERSION=v59.0
+
+# Optional: Login URL (use https://test.salesforce.com for sandbox)
+SALESFORCE_LOGIN_URL=https://login.salesforce.com
+
+# Google Gemini (if used)
+GOOGLE_API_KEY=your_google_api_key
