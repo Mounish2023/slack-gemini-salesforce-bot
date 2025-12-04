@@ -10,6 +10,9 @@ A powerful Slack bot that integrates Google Gemini AI with Salesforce using the 
 - **Slack Assistant**: Native Slack assistant interface with suggested prompts and thread support
 - **Real-time Streaming**: Streams AI responses in real-time for better user experience
 - **Feedback System**: Built-in thumbs up/down feedback mechanism for response quality
+## 🎬 Demo
+
+[Watch the demo video](slackbot.mp4)
 
 ## 🏗️ Architecture
 
